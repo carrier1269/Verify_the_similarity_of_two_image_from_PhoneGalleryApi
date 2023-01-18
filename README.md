@@ -1,4 +1,4 @@
-# verify_the_smiliarity_of_two_image_from_PhoneGalleryApi
+# verify_the_similarity_of_two_image_from_PhoneGalleryApi
 
 - Run the file with cmd to use with anaconda virtual basement
 - Run the python file named 'face_compare.py'
